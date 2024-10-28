@@ -8,6 +8,8 @@ Wayback machine: https://web.archive.org/web/20240929052603/https://howchoo.com/
 
 Guide:   
 ![image](https://github.com/user-attachments/assets/43b06197-f96d-49d5-adef-3aadd77b6014)
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/eae617de-9834-44fc-8aab-512cc0a2cb30">
+
   
 NPN transistor = 2N2222  
 Resistor = 680Ω  
